@@ -1,0 +1,3 @@
+0	-nan	-nan	-nan	-nan
+100	-nan	-nan	-nan	-nan
+200	-nan	-nan	-nan	-nan

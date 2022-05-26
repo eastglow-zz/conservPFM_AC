@@ -1,0 +1,1 @@
+nohup ./Nestler.exe &
